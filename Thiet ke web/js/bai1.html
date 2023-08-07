@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PT bậc 2</title>
+    <script src="/Thiet ke web/js/bai1.js"></script>
+    <style>
+        table {
+            background-color: rgb(128, 128, 204);
+            padding: 50px;
+            margin: 0 auto;
+            font-size: larger;
+        }
+        @keyframes err {
+        from {
+            outline: unset;
+        }
+        to {
+            outline: 1px solid red;
+        }
+        }
+
+        .error {
+            animation: err .5s 3;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="2" style="padding-bottom:10px; text-transform: uppercase; font-weight: bold;">Giải phương trình bậc 2 Ax<sup>2</sup> +Bx +C = 0</td>
+        </tr>
+        <tr>
+            <td> A = </td>
+            <td>
+                 <input type="number" id="aId">
+            </td>
+        </tr>
+        <tr>
+            <td> B = </td>
+            <td><input type="number" id="bId"></td>
+        </tr>
+        <tr>
+            <td> C = </td>
+            <td><input type="number" id="cId"></td>
+        </tr>
+        <tr>
+            <td colspan="2" id="kq">...</td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="button" value="Giải" onclick="giaiBac2()">
+            </td>
+        </tr>
+    </table> <br>
+
+    <table>
+        <tr>
+            <td colspan="3" style="font-weight: bold;">Chuyển đổi đơn vị tiền tệ</td>
+        </tr>
+        <tr>
+            <td>Số tiền</td>
+            <td>
+                <input type="number" id="dId"> 
+            </td>
+            <td>(VNĐ)</td>
+        </tr>
+        <tr>
+            <td>Đơn vị đổi</td>
+            <td colspan="3">
+                <select name="" id="donVi">
+                    <option value="EUR">EUR</option>
+                    <option value="USD">USD</option>
+                    <option value="AUD">AUD</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" id="tien">...</td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" value="Đổi" onclick="doiTien()">
+            </td>
+        </tr>
+    </table>

@@ -1,0 +1,86 @@
+body {
+   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20220512/pngtree-the-squares-in-shades-of-gray-seamless-background-image_1253168.jpg?fbclid=IwAR3q7V3bTw3vckAAeiqBFV7ImMdBT0dy--qg9EwRoG9VmeKZD55DZsheFnU);
+   height: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 0 50px;
+ }
+
+ .main {
+  background-color: #fff;
+  height: 100%;
+ }
+
+ .content {
+   
+}
+
+ .banner {
+   width: 100%;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+   margin-top: 8px;
+ }
+
+ .heading {
+   color: #0000CC;
+   text-align: center;
+ }
+
+ .head1,
+ .head2 {
+   margin: 0 10px;
+ }
+
+ .head2 {
+   padding: 20px 0;;
+ }
+ .form {
+   margin: 0 30px;
+ }
+
+.number {
+   font-size: 15px;
+   margin: 0 3px 0 8px;
+ }
+
+ .sub-content {
+   margin: 0;
+ }
+
+ .ques1,.ques2,.ques3,
+ .ques4,.ques5,.ques6,.ques7 {
+   margin: 3px;
+ }
+
+ #description {
+   margin-left: 20px;
+ }
+
+ .button {
+   margin-left: 50px;
+ }
+
+ .submit-btn {
+   padding-top: 30px;
+   padding-bottom: 10px;
+   padding-left: 1160px;
+ }
+
+ .footer {
+   background-color: #0A70A4;
+   padding: 25px 0px;
+   padding-left: 50px;
+}
+
+.footer-contact {
+   font-weight: 300;
+   margin: 0;
+   padding: 0;
+}
+
+.img-footer {
+  height: 100px;
+  width: 400px;
+  opacity: 0.3;
+}

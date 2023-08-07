@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20220512/pngtree-the-squares-in-shades-of-gray-seamless-background-image_1253168.jpg?fbclid=IwAR3q7V3bTw3vckAAeiqBFV7ImMdBT0dy--qg9EwRoG9VmeKZD55DZsheFnU);
+    color: #000066;
+}
+
+#nav {
+    background-color: #1D559F;
+}
+
+.heading1 {
+    padding-left: 7px;
+    margin: 20px 20px;
+}
+.des {
+    padding-left: 40px;
+    margin: 20px 20px;
+}
+.heading2 {
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: bold;
+    padding-left: 25px;
+    margin: 20px 20px;
+}
+
+.list {
+    padding-left: 100px;
+}
+
+.link:hover {
+    color: #FF0000;
+    text-decoration: underline;
+}
+
+.link {
+    color: #2B15E6;
+    text-decoration: none;
+}
+
+
+.place {
+    padding-left: 7px;
+    margin: 20px 20px;
+}
+
+.address {
+    font-size: 15px;
+    padding-left: 7px;
+    margin: 20px 20px;
+    font-style: italic;
+
+}

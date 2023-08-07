@@ -1,0 +1,116 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.nav {
+    width: 100%;
+    background-image: linear-gradient(#000099, #0066FF);
+    display: flex;
+    align-items: center;
+    
+}
+
+.heading {
+   margin: auto;
+   color: #fff;
+   
+}
+
+.content {
+    background-image: url(data:image/jpeg;base64,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://tophinhanhdep.com/wp-content/uploads/2021/10/Light-Blue-Plain-Wallpapers.jpgYx0kjleqnWdE38kxhzmOV/JUq+T+RX8jZjDnMc/OkeYH2gMXG8qLyDTkfsxjYU6r//2Q==);
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.label {    
+    color: #fff;    
+    margin: 15px 0 20px 0;
+    background-image: linear-gradient(#0000FF, #33CCFF);
+    width: 30%;
+    height: auto;
+}
+
+
+
+.heading-form {
+    padding: 20px 0;
+}
+
+.info {
+    text-align: left;
+    position: relative;
+}
+
+.vanban {
+    position: absolute;
+    right: 15px;
+    width: 60%;
+    height: 12%;
+    border: 0px;
+}
+
+.vanban1,
+.vanban2 {
+    margin-top: -17px;
+    position: absolute;
+}
+
+.vanban1 {
+    right: 210px;
+}
+
+.vanban2 {
+    right: 160px;
+ }
+
+.nhap {
+    margin: 20px 15px;
+    
+}
+
+.nhap input {
+    padding: 5px;
+}
+
+
+.log-in {
+    display: flex;
+    justify-content: end;
+    padding-right: 20px;
+}
+
+.log-in input {
+    margin: 0 -5px 20px 15px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.footer {
+    color: #fff;
+    background-image: linear-gradient(#000099, #0066FF);
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 135px;
+    line-height: 20px;
+    padding-left: 10px;
+}
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+body {
+    background-color: #E5E5E5;
+    margin: 10px 50px;
+}
+
+/* hàm viết hoa vb */
+.upper {
+    text-transform: uppercase;
+}
+
+#banner {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    margin-bottom: 5px;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20220512/pngtree-the-squares-in-shades-of-gray-seamless-background-image_1253168.jpg?fbclid=IwAR3q7V3bTw3vckAAeiqBFV7ImMdBT0dy--qg9EwRoG9VmeKZD55DZsheFnU');
+}
+
+.heading {
+    color: purple;
+    
+}
+
+#content {
+    display: flex;
+    
+}
+
+.heading2 {
+    text-align: center;
+}
+
+.content-sub {
+    height: 400px;
+    vertical-align: top;
+}
+
+.title-content {
+    padding-left: 15px;
+}
+
+.button {
+    
+}
+
+.like,.share {
+    display: inline;
+    float: right;
+    border: 1px solid #000;
+    margin-bottom: 5px;
+    padding: 4px;
+   
+}
+.like {
+    margin-right: 5px;
+}
+.share {
+    font-size: 14px;
+}
+
+#text {
+   width: 470px;
+   height: 100px;
+}
+
+.submit {
+    float: right;
+    margin-top: 4px;
+    display: block;
+}
+
+.tag {
+    padding-top: 25px;
+}
+
+.tag p {
+    display: inline;
+    margin: 8px;
+}
+
+.video-row1 {
+    
+}
+
+.main-video {
+    
+}
+
+.video-row2 td {
+    padding-left: 5px;
+    padding-top: 25px;
+}
+
+.video-row3 td {
+    padding-left: 5px;
+    padding-top: 25px;
+}
+
+.title-video {
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+#footer {
+    background-color: #BEBEBE;
+    text-align: center;
+    margin-bottom: -10px;
+}
