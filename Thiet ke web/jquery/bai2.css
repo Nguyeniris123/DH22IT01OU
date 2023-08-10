@@ -1,0 +1,32 @@
+.tab {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.tab > li {
+    background-color: blue;
+    margin-right: 0.5rem;
+}
+
+.tab > li > a {
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+    color: white;
+}
+
+.tab-content > div {
+    background-color: darkred;
+    color: white;
+    padding: 1.5rem;
+}
+
+.active {
+    background-color: darkred !important;
+}
+
+.tab-content > div:not(:first-child) {
+    display: none;
+}

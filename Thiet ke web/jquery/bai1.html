@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/Thiet ke web/jquery/bai1.css">
+    <script src="/Thiet ke web/jquery/jquery-3.7.0.min.js"></script>
+    <script src="/Thiet ke web/jquery/bai1.js"></script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="3">Chuyển đổi đơn vị tiền tệ</td>
+        </tr>
+        <tr>
+            <td>Số tiền</td>
+            <td>
+                <input type="number" min="1" max="10000000000000" name="" id="stId">
+            </td>
+            <td>(VNĐ)</td>
+        </tr>
+        <tr>
+            <td>Đơn vị đổi</td>
+            <td>
+                <select id="dvId">
+                        <option value="usd">USD</option>
+                        <option value="aud">AUD</option>
+                        <option value="eur">EUR</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" id="kq"></td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" value="Đổi tiền" id="doitienbtn">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

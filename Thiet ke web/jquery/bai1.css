@@ -1,0 +1,15 @@
+table {
+    border: 1px solid black;
+}
+@keyframes err {
+    from {
+        outline: none;
+    }
+    to {
+        outline: 1px solid red;
+    }
+}
+
+.error {
+    animation: err 0.5s 3;
+}
