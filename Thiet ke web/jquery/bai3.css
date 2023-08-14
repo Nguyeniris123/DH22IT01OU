@@ -1,0 +1,19 @@
+.slider {
+    position: relative;
+}
+
+.slider img {
+    width: 100%;
+}
+
+.slider > div {
+    position: absolute;
+}
+
+.slider-button {
+    text-align: center;
+}
+
+.active {
+    background-color: darkred !important;
+}
