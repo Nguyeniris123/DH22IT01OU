@@ -4,6 +4,7 @@ using namespace std;
 void Input(int a[MAX], int n);
 void Output(int a[MAX], int n);
 int search(int a[], int n, int x);
+int BinarySearch(int a[], int n, int x);
 void Delete(int a[], int &n, int i);
 void themMotPhanTuVaoMang(int a[], int &n, int v, int x);
 void hoanVi(int &a, int &b);
@@ -78,6 +79,20 @@ int search(int a[], int n, int x)
 	return i;
 }
 
+int BinarySearch(int a[], int n, int x)
+{
+	int left = 0, right = n - 1, mid;
+	while (left <= right)
+	{
+		mid = (left + right) / 2;
+		if (a[mid] == x) return mid;
+		if (x > a[mid])
+			left = mid + 1;
+		else right = mid - 1;
+	}
+	return -1;
+}
+
 void Delete (int a[], int &n, int i)
 {
 	if (i >= 0 && i < n)
@@ -98,11 +113,7 @@ void hoanVi(int &a, int &b)
 void sapXepTang(int a[], int n)
 {
 	for (int i = 0; i < n - 1; i++)
-	{
 		for (int j = i + 1; j < n; j++)
-		{
 			if (a[i] > a[j])
 				hoanVi(a[i], a[j]);
-		}
-	}
 }
