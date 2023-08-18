@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="/Thiet ke web/jquery/jquery-3.7.0.min.js"></script>
+    <script src="/Thiet ke web/jquery/bai5.js"></script>
+    <style>
+        .flex {
+            display: flex;
+        }
+
+        .buttons {
+            margin-top: 10px;
+        }
+
+        .buttons input[type=button] {
+            width: 100px;
+            height: 30px;
+            border: 1px solid gray;
+        }
+
+        .shape {
+            background-color: gray;
+        }
+
+        .shape > svg:not(:first-child) {
+            display: none;
+        }
+
+        svg {
+            width: 400px;
+            height: 300px;
+        }
+
+
+        
+    </style>
+</head>
+<body>
+    <div class="flex">
+        <div>
+            <div>
+                <input type="text" name="" id="colorId">
+                <input type="button" value="Thêm" id="btnThem">
+            </div>
+
+            <div id="suggest"></div>
+
+            <div class="buttons">
+                <div><input type="button" style="background-color: red"></div>
+                <div><input type="button" style="background-color: green"></div>
+                <div><input type="button" style="background-color: blue"></div>
+            </div>
+        </div>
+
+        <div>
+            <div class="rdo">
+                <input type="radio" name="shape" rel="0" id="" checked> Circle
+                <input type="radio" name="shape" rel="1" id=""> Rectangle
+                <input type="radio" name="shape" rel="2" id=""> Ellipse
+            </div>
+
+            <div class="shape">
+                <svg>
+                    <circle cx="200" cy="150" r="100" stroke="black"
+                    stroke-width="4" fill="black" />
+                </svg>
+
+                <svg>
+                    <rect x="100" y="50" width="200" height="200"
+                    stroke="black" stroke-width="4" fill="black" />
+                </svg>
+
+                <svg>
+                    <ellipse cx="200" cy="150" rx="150" ry="80"
+                    stroke="black" stroke-width="4" fill="black" />
+                </svg>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
