@@ -154,7 +154,6 @@ void deleteLast(Node *&head)
 				head = p->next;
 				p->next = NULL;
 				delete(p);
-				
 			}
 		}
 		else
@@ -198,8 +197,6 @@ void deleteMode(Node *&head, int v) //v la gia tri muon xoa
 				delete(p);
 			}
 		}
-		
-		
 	}
 }
 
