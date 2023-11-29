@@ -7,7 +7,11 @@ BuildClass\DsPhanSo.class
 BuildClass\Diem.class
 UseClass\Bai6.class
 UseClass\Bai1.class
+BuildClass\CauHinh.class
+BuildClass\QuanLiHocVien.class
 BuildClass\HinhTron.class
+UseClass\Bai7.class
 BuildClass\HinhChuNhat.class
 BuildClass\PhanSo.class
+BuildClass\HocVien.class
 UseClass\Bai4.class
