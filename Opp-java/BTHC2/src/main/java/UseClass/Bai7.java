@@ -35,7 +35,7 @@ public class Bai7 {
         HocVien h3 = ql.timKiem(1);
         h3.hienThi();
         
-        //tim kiem 1 hv theo keywork
+        //tim kiem 1 hv theo keyword
         System.out.println("Tim Kiem hv co ten: Ho Chi Nguyen");
         ql.timKiem("Ho Chi Nguyen").forEach(h -> h.hienThi());
         
