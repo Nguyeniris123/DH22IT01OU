@@ -1,0 +1,14 @@
+D:\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.exe.config
+D:\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.exe
+D:\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.pdb
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csproj.AssemblyReference.cache
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.Bai1_36_Nguyen.resources
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.Properties.Resources.resources
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csproj.GenerateResource.cache
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csproj.CoreCompileInputs.cache
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.exe
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.pdb
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.Bai4_36_Nguyen.resources
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.Form1.resources
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.Form2.resources
+D:\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.Bai6_36_Nguyen.resources

@@ -1,0 +1,14 @@
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\bin\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.exe
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\bin\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.deps.json
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\bin\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.runtimeconfig.json
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\bin\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.runtimeconfig.dev.json
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\bin\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.dll
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\bin\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.pdb
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.csproj.AssemblyReference.cache
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.AssemblyInfoInputs.cache
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.AssemblyInfo.cs
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.csproj.CoreCompileInputs.cache
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.dll
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.pdb
+D:\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\netcoreapp3.1\BaiThucHanh1_36_Nguyen.genruntimeconfig.cache
