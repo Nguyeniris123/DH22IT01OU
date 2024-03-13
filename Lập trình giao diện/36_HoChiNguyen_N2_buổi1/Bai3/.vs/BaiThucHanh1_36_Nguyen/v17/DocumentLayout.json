@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NGUYEN\\source\\repos\\BaiThucHanh1_36_Nguyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1C22BE-4F2E-43D8-B181-694BB95A3F50}|BaiThucHanh1_36_Nguyen\\BaiThucHanh1_36_Nguyen.csproj|c:\\users\\nguyen\\source\\repos\\baithuchanh1_36_nguyen\\baithuchanh1_36_nguyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1C22BE-4F2E-43D8-B181-694BB95A3F50}|BaiThucHanh1_36_Nguyen\\BaiThucHanh1_36_Nguyen.csproj|solutionrelative:baithuchanh1_36_nguyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN\\source\\repos\\BaiThucHanh1_36_Nguyen\\BaiThucHanh1_36_Nguyen\\Program.cs",
+              "RelativeDocumentMoniker": "BaiThucHanh1_36_Nguyen\\Program.cs",
+              "ToolTip": "C:\\Users\\NGUYEN\\source\\repos\\BaiThucHanh1_36_Nguyen\\BaiThucHanh1_36_Nguyen\\Program.cs",
+              "RelativeToolTip": "BaiThucHanh1_36_Nguyen\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:42:20.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
