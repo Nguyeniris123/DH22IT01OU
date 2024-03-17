@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NGUYEN\\DH22IT01OU\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\36_HoChiNguyen_N2_bu\u1ED5i1\\Bai 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1C22BE-4F2E-43D8-B181-694BB95A3F50}|BaiThucHanh1_36_Nguyen\\BaiThucHanh1_36_Nguyen.csproj|c:\\users\\nguyen\\dh22it01ou\\l\u1EADp tr\u00ECnh giao di\u1EC7n\\36_hochinguyen_n2_bu\u1ED5i1\\bai 3\\baithuchanh1_36_nguyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1C22BE-4F2E-43D8-B181-694BB95A3F50}|BaiThucHanh1_36_Nguyen\\BaiThucHanh1_36_Nguyen.csproj|solutionrelative:baithuchanh1_36_nguyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN\\DH22IT01OU\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\36_HoChiNguyen_N2_bu\u1ED5i1\\Bai 3\\BaiThucHanh1_36_Nguyen\\Program.cs",
+              "RelativeDocumentMoniker": "BaiThucHanh1_36_Nguyen\\Program.cs",
+              "ToolTip": "C:\\Users\\NGUYEN\\DH22IT01OU\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\36_HoChiNguyen_N2_bu\u1ED5i1\\Bai 3\\BaiThucHanh1_36_Nguyen\\Program.cs*",
+              "RelativeToolTip": "BaiThucHanh1_36_Nguyen\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:42:20.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

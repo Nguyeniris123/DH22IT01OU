@@ -5,3 +5,7 @@ C:\Users\NGUYEN\source\repos\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\D
 C:\Users\NGUYEN\source\repos\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\BaiThucHanh1_36_Nguyen.csproj.CoreCompileInputs.cache
 C:\Users\NGUYEN\source\repos\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\BaiThucHanh1_36_Nguyen.exe
 C:\Users\NGUYEN\source\repos\BaiThucHanh1_36_Nguyen\BaiThucHanh1_36_Nguyen\obj\Debug\BaiThucHanh1_36_Nguyen.pdb
+C:\Users\NGUYEN\DH22IT01OU\Lập trình giao diện\36_HoChiNguyen_N2_buổi1\Bai 3\BaiThucHanh1_36_Nguyen\obj\Debug\BaiThucHanh1_36_Nguyen.csproj.AssemblyReference.cache
+C:\Users\NGUYEN\DH22IT01OU\Lập trình giao diện\36_HoChiNguyen_N2_buổi1\Bai 3\BaiThucHanh1_36_Nguyen\obj\Debug\BaiThucHanh1_36_Nguyen.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\DH22IT01OU\Lập trình giao diện\36_HoChiNguyen_N2_buổi1\Bai 3\BaiThucHanh1_36_Nguyen\obj\Debug\BaiThucHanh1_36_Nguyen.exe
+C:\Users\NGUYEN\DH22IT01OU\Lập trình giao diện\36_HoChiNguyen_N2_buổi1\Bai 3\BaiThucHanh1_36_Nguyen\obj\Debug\BaiThucHanh1_36_Nguyen.pdb
