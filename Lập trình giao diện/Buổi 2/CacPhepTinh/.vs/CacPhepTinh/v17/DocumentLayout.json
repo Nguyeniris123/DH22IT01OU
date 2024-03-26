@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C317EE14-64BE-4738-A9AB-8BD64C309A1D}|CacPhepTinh\\CacPhepTinh.csproj|c:\\users\\nguyen\\source\\repos\\cacpheptinh\\cacpheptinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C317EE14-64BE-4738-A9AB-8BD64C309A1D}|CacPhepTinh\\CacPhepTinh.csproj|solutionrelative:cacpheptinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C317EE14-64BE-4738-A9AB-8BD64C309A1D}|CacPhepTinh\\CacPhepTinh.csproj|C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\cacpheptinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C317EE14-64BE-4738-A9AB-8BD64C309A1D}|CacPhepTinh\\CacPhepTinh.csproj|solutionrelative:cacpheptinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C317EE14-64BE-4738-A9AB-8BD64C309A1D}|CacPhepTinh\\CacPhepTinh.csproj|C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\cacpheptinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C317EE14-64BE-4738-A9AB-8BD64C309A1D}|CacPhepTinh\\CacPhepTinh.csproj|solutionrelative:cacpheptinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\CacPhepTinh\\Form1.cs",
+              "RelativeDocumentMoniker": "CacPhepTinh\\Form1.cs",
+              "ToolTip": "C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\CacPhepTinh\\Form1.cs",
+              "RelativeToolTip": "CacPhepTinh\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:00:20.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\CacPhepTinh\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CacPhepTinh\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\CacPhepTinh\\Form1.Designer.cs",
+              "RelativeToolTip": "CacPhepTinh\\Form1.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAEwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:00:13.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\CacPhepTinh\\Form1.cs",
+              "RelativeDocumentMoniker": "CacPhepTinh\\Form1.cs",
+              "ToolTip": "C:\\Users\\NGUYEN\\source\\repos\\CacPhepTinh\\CacPhepTinh\\Form1.cs [Design]",
+              "RelativeToolTip": "CacPhepTinh\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:59:59.979Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

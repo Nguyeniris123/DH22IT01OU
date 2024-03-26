@@ -1,0 +1,10 @@
+D:\Bai2_36_nguyen\Bai2_36_nguyen\obj\Debug\Bai2_36_nguyen.csproj.AssemblyReference.cache
+D:\Bai2_36_nguyen\Bai2_36_nguyen\obj\Debug\Bai2_36_nguyen.Form1.resources
+D:\Bai2_36_nguyen\Bai2_36_nguyen\obj\Debug\Bai2_36_nguyen.Properties.Resources.resources
+D:\Bai2_36_nguyen\Bai2_36_nguyen\obj\Debug\Bai2_36_nguyen.csproj.GenerateResource.cache
+D:\Bai2_36_nguyen\Bai2_36_nguyen\obj\Debug\Bai2_36_nguyen.csproj.CoreCompileInputs.cache
+D:\Bai2_36_nguyen\Bai2_36_nguyen\bin\Debug\Bai2_36_nguyen.exe.config
+D:\Bai2_36_nguyen\Bai2_36_nguyen\bin\Debug\Bai2_36_nguyen.exe
+D:\Bai2_36_nguyen\Bai2_36_nguyen\bin\Debug\Bai2_36_nguyen.pdb
+D:\Bai2_36_nguyen\Bai2_36_nguyen\obj\Debug\Bai2_36_nguyen.exe
+D:\Bai2_36_nguyen\Bai2_36_nguyen\obj\Debug\Bai2_36_nguyen.pdb

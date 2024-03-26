@@ -1,0 +1,11 @@
+D:\bai4\bai4\bin\Debug\bai4.exe.config
+D:\bai4\bai4\bin\Debug\bai4.exe
+D:\bai4\bai4\bin\Debug\bai4.pdb
+D:\bai4\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+D:\bai4\bai4\obj\Debug\bai4.manHinhChinh_36_nguyen.resources
+D:\bai4\bai4\obj\Debug\bai4.formDangNhap_36_nguyen.resources
+D:\bai4\bai4\obj\Debug\bai4.Properties.Resources.resources
+D:\bai4\bai4\obj\Debug\bai4.csproj.GenerateResource.cache
+D:\bai4\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+D:\bai4\bai4\obj\Debug\bai4.exe
+D:\bai4\bai4\obj\Debug\bai4.pdb

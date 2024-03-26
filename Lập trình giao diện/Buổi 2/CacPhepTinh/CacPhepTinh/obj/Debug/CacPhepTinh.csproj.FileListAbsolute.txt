@@ -1,0 +1,10 @@
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\bin\Debug\CacPhepTinh.exe.config
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\bin\Debug\CacPhepTinh.exe
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\bin\Debug\CacPhepTinh.pdb
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.csproj.AssemblyReference.cache
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.Form1_36_nguyen.resources
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.Properties.Resources.resources
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.csproj.GenerateResource.cache
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.exe
+C:\Users\NGUYEN\source\repos\CacPhepTinh\CacPhepTinh\obj\Debug\CacPhepTinh.pdb
