@@ -1,0 +1,10 @@
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\bin\Debug\Bai3_N2_36_Nguyen.exe.config
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\bin\Debug\Bai3_N2_36_Nguyen.exe
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\bin\Debug\Bai3_N2_36_Nguyen.pdb
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\obj\Debug\B3_Bai3_N2_36_Nguyen.csproj.AssemblyReference.cache
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\obj\Debug\Bai3_N2_36_Nguyen.Properties.Resources.resources
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\obj\Debug\B3_Bai3_N2_36_Nguyen.csproj.GenerateResource.cache
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\obj\Debug\B3_Bai3_N2_36_Nguyen.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\obj\Debug\Bai3_N2_36_Nguyen.exe
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\obj\Debug\Bai3_N2_36_Nguyen.pdb
+C:\Users\NGUYEN\Downloads\BaiThucHanh3\Bai3_N2_36_Nguyen\obj\Debug\Bai3_N2_36_Nguyen.Bai3_36_Nguyen.resources
