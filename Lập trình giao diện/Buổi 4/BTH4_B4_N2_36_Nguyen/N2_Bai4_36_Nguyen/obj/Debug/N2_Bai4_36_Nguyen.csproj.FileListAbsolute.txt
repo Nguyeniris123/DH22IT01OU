@@ -1,0 +1,10 @@
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\obj\Debug\N2_Bai4_36_Nguyen.csproj.AssemblyReference.cache
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\obj\Debug\N2_Bai4_36_Nguyen.Properties.Resources.resources
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\obj\Debug\N2_Bai4_36_Nguyen.csproj.GenerateResource.cache
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\obj\Debug\N2_Bai4_36_Nguyen.csproj.CoreCompileInputs.cache
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\bin\Debug\N2_Bai4_36_Nguyen.exe.config
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\bin\Debug\N2_Bai4_36_Nguyen.exe
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\bin\Debug\N2_Bai4_36_Nguyen.pdb
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\obj\Debug\N2_Bai4_36_Nguyen.exe
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\obj\Debug\N2_Bai4_36_Nguyen.pdb
+D:\BTH4_B4_N2_36_Nguyen\N2_Bai4_36_Nguyen\obj\Debug\N2_Bai4_36_Nguyen.Form_36_Nguyen.resources
