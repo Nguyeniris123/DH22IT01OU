@@ -1,0 +1,10 @@
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\bin\Debug\B5_Bai_2_N2_36_Nguyen.exe.config
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\bin\Debug\B5_Bai_2_N2_36_Nguyen.exe
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\bin\Debug\B5_Bai_2_N2_36_Nguyen.pdb
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\obj\Debug\B5_Bai_2_N2_36_Nguyen.csproj.AssemblyReference.cache
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\obj\Debug\B5_Bai_2_N2_36_Nguyen.FormBai2_36_Nguyen.resources
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\obj\Debug\B5_Bai_2_N2_36_Nguyen.Properties.Resources.resources
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\obj\Debug\B5_Bai_2_N2_36_Nguyen.csproj.GenerateResource.cache
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\obj\Debug\B5_Bai_2_N2_36_Nguyen.csproj.CoreCompileInputs.cache
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\obj\Debug\B5_Bai_2_N2_36_Nguyen.exe
+D:\36_Nguyen_N2_B5_15\B5_Bai_2_N2_36_Nguyen\obj\Debug\B5_Bai_2_N2_36_Nguyen.pdb
