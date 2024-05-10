@@ -280,28 +280,70 @@ Group by Categories.CategoryID, CategoryName
 Having AVG(UnitPrice) > 30
 
 --28
---Kq:
-
-
+--Kq: 8 loại sản phẩm
+Select Categories.CategoryID, CategoryName,
+		AVG(UnitPrice) AS DonGiaTrungBinh
+From Categories, Products
+Where	
+	Categories.CategoryID = Products.CategoryID
+	AND UnitPrice > 30
+Group by Categories.CategoryID, CategoryName
 
 --29
---Kq:
+--Kq: 8 hàng
+Select CategoryName,  SUM([Order Details].UnitPrice*Quantity * (1-Discount)) AS DoanhSo
+From Categories, Products, [Order Details], Orders
+Where	
+	Categories.CategoryID = Products.CategoryID
+	AND Products.ProductID = [Order Details].ProductID
+	AND Orders.OrderID = [Order Details].OrderID
+	AND YEAR(OrderDate) = 1996 
+Group by CategoryName
 
 --30
---Kq:
+--Kq: 86 hàng
+Select CompanyName, 
+		SUM(Freight)/SUM([Order Details].UnitPrice * Quantity *(1-Discount)) AS TiLeTienCuoc
+From Customers, Orders, [Order Details]
+Where	
+	Customers.CustomerID = Orders.CustomerID
+	AND Orders.OrderID = [Order Details].OrderID
+	AND Year(OrderDate) = 1997
+Group by CompanyName	
 
 --31
---KQ:
+--KQ: 39 sản phẩm
+Select Top 39 ProductID, ProductName, UnitPrice
+From Products
+Order by UnitPrice DESC
 
 --32
---Kq:
+--Kq: 39
+Select Top 50 PERCENT ProductID, ProductName, UnitPrice
+From Products
+Order by UnitPrice DESC
 
 --33
---Kq:
+--Kq: 10 hàng
+Select Top 10 Customers.CustomerID, CompanyName, Count(OrderID) AS SoLuongDonHang
+From Customers, Orders
+Where 
+	Customers.CustomerID = Orders.CustomerID
+Group by Customers.CustomerID, CompanyName
+Order by Count(OrderID) DESC
 
 --34
---Kq:
+--Kq: 89
+Select CustomerID, CompanyName, Country
+From Customers
+Where CustomerID IN 
+			(SELECT CustomerID FROM Orders)
+Order by Country
 
 --35
---KQ:
-
+--KQ: 2 hàng
+Select CustomerID, CompanyName, Country
+From Customers
+Where CustomerID NOT IN 
+			(SELECT CustomerID FROM Orders)
+Order by Country
