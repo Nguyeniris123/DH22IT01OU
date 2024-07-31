@@ -48,12 +48,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pddp2OwSgXIwya7fLKx8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XqbUk4HYGCtjtvP8X9GV-2" target="Pddp2OwSgXIwya7fLKx8-20" edge="1">
+        <mxCell id="Pddp2OwSgXIwya7fLKx8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XqbUk4HYGCtjtvP8X9GV-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="190" />
               <mxPoint x="270" y="455" />
             </Array>
+            <mxPoint x="290" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XqbUk4HYGCtjtvP8X9GV-2" value="3. Quản lý khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -177,10 +178,10 @@
         <mxCell id="XqbUk4HYGCtjtvP8X9GV-34" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2.1. Lập phiếu thu tiền&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="170" y="240" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d4tZR1MMgaJqFNB_3q-F-3" value="3.2. Lập danh sách yêu cầu hỗ trợ" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="d4tZR1MMgaJqFNB_3q-F-3" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;3.2.Gửi yêu cầu hỗ trợ cho bộ phận khác&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="290" y="330" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d4tZR1MMgaJqFNB_3q-F-4" value="3.1. Thông báo các ưu đãi" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="d4tZR1MMgaJqFNB_3q-F-4" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;3.1. Lập danh sách yêu cầu hỗ trợ&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="290" y="240" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d4tZR1MMgaJqFNB_3q-F-9" value="&lt;br&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;4.3. Tạo và quản lí báo cáo bảo trì&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -204,7 +205,7 @@
         <mxCell id="Pddp2OwSgXIwya7fLKx8-2" value="1.4. Bàn giao phòng" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="50" y="510" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Pddp2OwSgXIwya7fLKx8-20" value="3.3.Gửi yêu cầu hỗ trợ cho bộ phận khác" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="BeH-790j9N2ddp-hlTAV-3" value="3.3. Thông báo các ưu đãi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="420" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
