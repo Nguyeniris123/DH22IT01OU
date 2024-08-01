@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="XJoEXvCxvIJXKw-SbkzF">
-    <mxGraphModel dx="419" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,17 +19,17 @@
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Z1KxfnH4ZEORm4SsxlyS-3" target="Z1KxfnH4ZEORm4SsxlyS-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-8" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Báo cáo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Báo cáo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="195" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-9" value="&lt;font size=&quot;1&quot;&gt;Yêu cầu báo cáo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="100" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-10" value="L." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
-          <mxGeometry x="400" y="100" width="150" height="30" as="geometry" />
+          <mxGeometry x="380" y="70" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-11" value="Danh sách báo cáo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="100" width="107.5" height="30" as="geometry" />
+          <mxGeometry x="421.25" y="70" width="107.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Z1KxfnH4ZEORm4SsxlyS-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -100,7 +100,7 @@
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-26" value="g." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-27" value="Danh sách hoá đơn bồi thường sự cố" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-27" value="Hoá đơn bồi thường sự cố" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="433.75" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-28" value="h." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
@@ -114,7 +114,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-29" value="Danh sách hoá đơn chi phí bảo trì" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-29" value="Hoá đơn chi phí bảo trì" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-30" value="i." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
@@ -130,6 +130,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.624;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Z1KxfnH4ZEORm4SsxlyS-26" target="Z1KxfnH4ZEORm4SsxlyS-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svgntC1H9RBwEL7w_Wvt-1" value="n." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svgntC1H9RBwEL7w_Wvt-2" value="Báo cáo tài chính" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svgntC1H9RBwEL7w_Wvt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.384;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="svgntC1H9RBwEL7w_Wvt-1" target="Z1KxfnH4ZEORm4SsxlyS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
