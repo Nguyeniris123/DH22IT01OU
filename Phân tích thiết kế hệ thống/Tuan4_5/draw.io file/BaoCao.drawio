@@ -25,7 +25,7 @@
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-9" value="&lt;font size=&quot;1&quot;&gt;Yêu cầu báo cáo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="100" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-10" value="L." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-10" value="m." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="380" y="70" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-11" value="Danh sách báo cáo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -91,13 +91,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-23" value="f." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-23" value="l." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="400" y="310" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-24" value="Biên bản sự cố" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-26" value="g." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="Z1KxfnH4ZEORm4SsxlyS-26" value="k." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-27" value="Hoá đơn bồi thường sự cố" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -132,13 +132,13 @@
         <mxCell id="Z1KxfnH4ZEORm4SsxlyS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.624;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Z1KxfnH4ZEORm4SsxlyS-26" target="Z1KxfnH4ZEORm4SsxlyS-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="svgntC1H9RBwEL7w_Wvt-1" value="n." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+        <mxCell id="svgntC1H9RBwEL7w_Wvt-1" value="f." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svgntC1H9RBwEL7w_Wvt-2" value="Báo cáo tài chính" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="svgntC1H9RBwEL7w_Wvt-2" value="Báo cáo tài chính" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="380" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svgntC1H9RBwEL7w_Wvt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.384;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="svgntC1H9RBwEL7w_Wvt-1" target="Z1KxfnH4ZEORm4SsxlyS-3">
+        <mxCell id="svgntC1H9RBwEL7w_Wvt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.384;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="svgntC1H9RBwEL7w_Wvt-1" target="Z1KxfnH4ZEORm4SsxlyS-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
