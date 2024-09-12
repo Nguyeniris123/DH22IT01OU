@@ -100,3 +100,6 @@ Create table NhanVien
 	TenNV nvarchar(50)
 ) ON FileGroup1
 
+Use Master
+backup database Northwnd
+to disk = 'C:\OnTap\Northwind.bak'
