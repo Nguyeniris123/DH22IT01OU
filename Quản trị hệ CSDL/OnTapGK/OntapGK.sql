@@ -53,3 +53,50 @@ with file = 3, recovery
 
 use QLSV
 select * from SinhVien
+
+Create database QLNV 
+ON PRIMARY
+( NAME = 'QLNV'
+, FILENAME = 'C:\OnTap\QLNV.mdf'
+, SIZE = 10MB
+, MAXSIZE = Unlimited
+, FILEGROWTH = 20%),
+
+( NAME = 'QLNV2'
+, FILENAME = 'C:\OnTap\QLNV2.ndf'
+, SIZE = 10MB
+, MAXSIZE = Unlimited
+, FILEGROWTH = 30%)
+
+ LOG ON
+( NAME = 'QLNV_log'
+, FILENAME = 'C:\OnTap\QLNV_log.ldf'
+, SIZE = 10MB
+, MAXSIZE = Unlimited
+, FILEGROWTH = 40%);
+GO
+
+Alter database QLNV add Filegroup FileGroup1
+
+ALTER DATABASE QLNV
+ADD FILE (
+    NAME = QLNV3,
+    FILENAME = 'C:\OnTap\QLNV3.ndf',
+    SIZE = 10MB,
+    MAXSIZE = UNLIMITED,
+    FILEGROWTH = 10%
+) TO FILEGROUP FileGroup1;
+
+ALTER DATABASE QLNV MODIFY FILEGROUP FileGroup1 READONLY;
+
+ALTER DATABASE QLNV
+MODIFY FILEGROUP FileGroup1 READWRITE;
+
+use QLNV
+Create table NhanVien
+(
+	MaNV char(11) Primary key,
+	HoNV nvarchar(20),
+	TenNV nvarchar(50)
+) ON FileGroup1
+
