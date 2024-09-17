@@ -103,3 +103,49 @@ Create table NhanVien
 Use Master
 backup database Northwnd
 to disk = 'C:\OnTap\Northwind.bak'
+
+use master 
+Create synonym SanPham
+for Northwnd.dbo.Products
+
+Select * from dbo.SanPham
+
+USE Northwnd;
+GO
+
+CREATE SYNONYM dbo.SanPham
+FOR AdventureWorks.Production.Products;
+GO
+
+-- Tạo login MSSV với SQL Server authentication
+CREATE LOGIN MSSV WITH PASSWORD = 'YourPasswordHere';
+GO
+
+-- Gán quyền ALTER ANY LOGIN cho MSSV (cho phép tạo, sửa, xóa login)
+GRANT ALTER ANY LOGIN TO MSSV;
+
+-- Gán quyền VIEW ANY LOGIN cho MSSV (cho phép xem các login)
+GRANT VIEW ANY LOGIN TO MSSV;
+
+-- Gỡ quyền VIEW ANY DATABASE để MSSV không xem được các CSDL khác
+DENY VIEW ANY DATABASE TO MSSV;
+GO
+
+-- Chuyển sang cơ sở dữ liệu AdventureWorks
+USE AdventureWorks;
+GO
+
+-- Tạo user cho MSSV trong CSDL AdventureWorks
+CREATE USER MSSV_User FOR LOGIN MSSV;
+GO
+
+-- Gán quyền SELECT cụ thể cho các cột [ContactID], [Title], [FirstName], [LastName] của bảng [Person].[Contact]
+GRANT SELECT (ContactID, Title, FirstName, LastName)
+ON Person.Contact
+TO MSSV_User;
+GO
+
+-- Truy vấn các cột được cấp quyền từ bảng Person.Contact
+SELECT ContactID, Title, FirstName, LastName 
+FROM Person.Contact;
+GO
