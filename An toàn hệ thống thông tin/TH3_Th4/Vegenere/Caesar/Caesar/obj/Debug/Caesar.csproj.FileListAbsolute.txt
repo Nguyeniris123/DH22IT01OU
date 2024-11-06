@@ -1,0 +1,11 @@
+D:\KL_x64\Caesar6\Caesar\Caesar\bin\Debug\Caesar.exe.config
+D:\KL_x64\Caesar6\Caesar\Caesar\bin\Debug\Caesar.exe
+D:\KL_x64\Caesar6\Caesar\Caesar\bin\Debug\Caesar.pdb
+D:\KL_x64\Caesar6\Caesar\Caesar\obj\Debug\Caesar.Form1.resources
+D:\KL_x64\Caesar6\Caesar\Caesar\obj\Debug\Caesar.Properties.Resources.resources
+D:\KL_x64\Caesar6\Caesar\Caesar\obj\Debug\Caesar.csproj.GenerateResource.Cache
+D:\KL_x64\Caesar6\Caesar\Caesar\obj\Debug\Caesar.exe
+D:\KL_x64\Caesar6\Caesar\Caesar\obj\Debug\Caesar.pdb
+C:\TH\Caesar\Caesar\Caesar\bin\Debug\Caesar.exe.config
+C:\TH\Caesar\Caesar\Caesar\obj\Debug\Caesar.exe
+C:\TH\Caesar\Caesar\Caesar\obj\Debug\Caesar.pdb
